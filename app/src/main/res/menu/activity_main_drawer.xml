@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_all_apps"
+        android:icon="@drawable/ic_menu_all_apps"
+        android:title="All Apps" />
+
+    <item
+        android:id="@+id/nav_categories"
+        android:icon="@drawable/ic_menu_categories"
+        android:title="Categories"
+        android:visible="false"/>
+
+    <item android:id="@+id/submenu_categories"
+        android:title="Categories" >
+        <menu>
+            <item
+                android:id="@+id/it_cat1"
+                android:title="Cat 1" />
+            <item
+                android:id="@+id/it_cat2"
+                android:title="Cat 2" />
+            <item
+                android:id="@+id/it_cat3"
+                android:title="Cat 2" />
+        </menu>
+    </item>
+
+    <item android:title="Info">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_about"
+                android:title="About" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Top Free Apps</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_resumen">ResumenActivity</string>
+
+    <string name="error_offline">Error: The device does not have internet connection. Check your internet access and try again</string>
+
+    <string name="serviceURL">https://itunes.apple.com/us/rss/topfreeapplications/limit=10/json</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
