@@ -9,7 +9,7 @@
 
     <string name="error_offline">Error: The device does not have internet connection. Check your internet access and try again</string>
 
-    <string name="serviceURL">https://itunes.apple.com/us/rss/topfreeapplications/limit=10/json</string>
+    <string name="serviceURL">https://itunes.apple.com/us/rss/topfreeapplications/limit=20/json</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
